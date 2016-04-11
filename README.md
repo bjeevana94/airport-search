@@ -1,6 +1,6 @@
 # airport-search
 This is a basic Web application that enables searching airport which retrives all tha data from MySQL database.
-Technologies used:
+Technologies used -
 IDE: Eclipse ,
 Backend: MySQL ,
 Programming language: Java (Java servlet page),
